@@ -9,3 +9,5 @@ Return 3 wrappers, get 1 chocolate and eat it (keep 2 wrappers)
 Now we have 3 wrappers. Return 3 and get 1 more chocolate.
 
 So total chocolates = 15 + 5 + 1 + 1
+
+<img src="https://github.com/MrAnonymous09/Cprogramming/blob/5592afe130df612975ba5ec7f08cea06aa9273f6/Puzzle%2022%20%7C%20(Maximum%20Chocolates)/Puzzle%2022%20%20(Maximum%20Chocolates)%20Output.png?raw=true">
