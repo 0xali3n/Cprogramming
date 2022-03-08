@@ -8,12 +8,14 @@ This is a Repo open for all, anyone can contribute to it. Our college is KLE Tec
 </br>
 
 ## Contributers please follow the rules for merging PR's
-
+<img src="https://github.com/MrAnonymous09/Cprogramming/blob/main/MrAnonymous09.png?raw=true">
 <img src="https://github.com/MrAnonymous09/Cprogramming/blob/main/Rules%20For%20Merging%20PR's.png?raw=true">
 
-### Step I: Make a Seperate Folder for your code
-### Step II: Make three files in them like Code, Output, ReadMe
-### Step III: I will merge you
+
+### Step I: Star & Fork the Repo
+### Step II: Make a Seperate Folder for your code
+### Step III: Make three files in them like Code, Output, ReadMe
+### Step IV: I will merge you
 </br>
 </br>
 
