@@ -1,6 +1,6 @@
 # C-programming
 
-<h3 align="center"><a href="https://github.com/MrAnonymous09/Cprogramming/edit/main/README.md#c-programming"><img src="https://www.kletech.ac.in/wp-content/uploads/2019/07/logo.png"></a></h3>
+<h3 align="center"><a href="https://github.com/MrAnonymous09/Cprogramming#c-programming"><img src="https://www.kletech.ac.in/wp-content/uploads/2019/07/logo.png"></a></h3>
 
 These are the Cprogramming codes, taught &amp; practised in our College.
 
