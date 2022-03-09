@@ -1,6 +1,6 @@
 # C-programming
 
-<h3 align="center"><img src="https://www.kletech.ac.in/wp-content/uploads/2019/07/logo.png"></h3>
+<h3 align="center"><a href="https://github.com/MrAnonymous09/Cprogramming/edit/main/README.md#c-programming"><img src="https://www.kletech.ac.in/wp-content/uploads/2019/07/logo.png"></a></h3>
 
 These are the Cprogramming codes, taught &amp; practised in our College.
 
@@ -8,8 +8,8 @@ This is a Repo open for all, anyone can contribute to it. Our college is KLE Tec
 </br>
 
 ## Contributers please follow the rules for merging PR's
-<img src="https://github.com/MrAnonymous09/Cprogramming/blob/main/MrAnonymous09.png?raw=true">
-<img src="https://github.com/MrAnonymous09/Cprogramming/blob/main/Rules%20For%20Merging%20PR's.png?raw=true">
+<a href="https://github.com/MrAnonymous09/Cprogramming#contributers-please-follow-the-rules-for-merging-prs"><img src="https://github.com/MrAnonymous09/Cprogramming/blob/main/MrAnonymous09.png?raw=true">
+<img src="https://github.com/MrAnonymous09/Cprogramming/blob/main/Rules%20For%20Merging%20PR's.png?raw=true"></a>
 
 
 ### Step I: Star & Fork the Repo
